@@ -127,7 +127,16 @@ File is not vailable dur to large size. Generate it using the provided notebook.
 
 ---
 
+## 📸 Demo
 
+### 🏠 Home Screen
+![Home Screen](assets/Home_Screen.png)
+
+### 🔍 Search Results
+![Search Results](assets/Search_Result.png)
+
+### ⚙️ Sidebar Controls
+![Sidebar](assets/Side_Bar.png)
 
 ---
 
