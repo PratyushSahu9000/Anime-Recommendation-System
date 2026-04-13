@@ -136,7 +136,7 @@ File is not vailable dur to large size. Generate it using the provided notebook.
 ![Search Results](assets/Search_Result.png)
 
 ### ⚙️ Sidebar Controls
-![Sidebar](assets/Side_Bar.png)
+![Sidebar](assets/Side_Bar.png) 
 
 ---
 
