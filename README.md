@@ -57,7 +57,7 @@ Anime-Recommendation-System/
 
 ---
 
-## 📊 Dataset
+## 📊 Dataset(Fetched using public AniList API)
 
 ### Raw Data
 
