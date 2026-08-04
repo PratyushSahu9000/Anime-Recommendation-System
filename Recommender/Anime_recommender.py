@@ -97,7 +97,7 @@ div[data-testid="stButton"] > button:hover { background: #6d28d9; }
 
 
 # ─── Load Pickle ───────────────────────────────────────────────────────────────
-PICKLE_PATH = "../model/anime_model.pkl"   # adjust if your folder layout differs
+PICKLE_PATH = "model/anime_model.pkl"   # adjust if your folder layout differs
 
 @st.cache_resource(show_spinner="Loading model…")
 def load_model():
